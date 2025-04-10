@@ -283,7 +283,7 @@ button.addEventListener("click", function () {
       <button id="colorButton">Change Color</button>
     </main>
     <footer>
-      <p>&copy; 2023 My Website</p>
+      <p>&copy; 2025 My Website</p>
     </footer>
 
     <script src="script.js"></script>
