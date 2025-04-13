@@ -1,8 +1,24 @@
 # EIS-Coding-Workshop-101
-Workshop C Web Basic  
+**Workshop C: Web Basics** (11 April 2025)
+
+Welcome! 👋  
+This repository contains materials and code samples for the <br>
+**[EIS Coding Workshop 101](https://uow.swoogo.com/eis-students/8149586)** hosted by 
+**[UOW EIS](https://www.uow.edu.au/engineering-information-sciences/)** and **[UOW WiSTEM](https://www.linkedin.com/company/uowwistem/posts/?feedView=all)**.
+
+## What's Inside
+- Workshop slides (PDF)
+- Sample code snippets
+- Practice activities
+- Helpful links & references
+
+  
 [web-basics-cheatsheet.md](https://github.com/user-attachments/files/19687577/web-basics-cheatsheet.md)  
 [workshop C web-basics-cheatsheet.pdf](https://github.com/user-attachments/files/19687581/workshop.C.web-basics-cheatsheet.pdf)  
 [workshop C mini-project-cheatsheet.pdf](https://github.com/user-attachments/files/19687583/workshop.C.mini-project-cheatsheet.pdf)  
+[workshop C web-basics-slide_Yenny and Patrick.pptx](https://github.com/user-attachments/files/19722674/Workshop.C.-.2025.web-basics.Yenny.and.Patrick.pptx)
+
+
 
 # Web Development Basics Cheatsheet
 
